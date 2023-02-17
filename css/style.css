@@ -1,0 +1,47 @@
+#header-img {
+    width: 55%;
+}
+#title {
+    padding-top: 150px;
+    margin-top: 50px;
+    top: 50px
+
+}
+#form{
+    padding-top: 25px;
+    margin-top: 5px;
+    top: 50px
+}
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #a1a1a1;
+    color: white;
+    font-family: 'Exo 2', sans-serif;
+    padding: 1em;
+  }
+ul {
+    list-style: none;
+}
+ul a {
+    float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#nav-bar {
+    float: right;
+    overflow: hidden;
+}
+#video {
+    margin-top: 25px;
+}
+#submit {
+    background-color: yellow;
+    color: black;
+    border-color: yellow;
+}
